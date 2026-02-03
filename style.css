@@ -31,9 +31,10 @@ body{
 
 .navbar a{
    position: relative;
-   font-size: 0.9rem;
-   font-weight: 300;
-   letter-spacing: 0.9px;
+   font-family: "Poppins", sans-serif;
+   font-size: 0.85rem;
+   font-weight: 200;
+   letter-spacing: 3px;
    margin-left: 25px;
    text-decoration: none;
    color: whitesmoke;
@@ -97,8 +98,8 @@ body{
 
 
 .logo{
-   width: 57px;
-   height: 50px;
+   width: 67px;
+   height: 60px;
    margin-right: 5px;
    margin-bottom: 10px;
    vertical-align: middle;
@@ -106,6 +107,7 @@ body{
 
 .titulo-banco{
    font-size: 1.5rem;
+   font-family: "Poppins", sans-serif;
    font-weight: 700;
 }
 
